@@ -1,2 +1,12 @@
 # RememberThat
- RememberThat é uma página criada de forma responsive e mobile responsive
+
+**RememberThat** é a página sobre um serviço de tarefas
+
+### ℹ️ Página criada utilizando:
+
+- HTML5
+- CSS3
+
+### 🧑 Feito por
+
+[Gustavo Ramos](https://github.com/GustavoHNRamos)
